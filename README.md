@@ -22,4 +22,4 @@ Some of the most transferable skills I obtained in this project include the prac
 
 ## Maintainability, Readability, Adaptability
 
- 
+ I took several actions to improve the maintainability, readability, and adaptability of this program. Firstly, separating the existing code into classes that group similar functions and related parameters into objects improve readability and maintainability. Having each piece of code sorted into the according function makes the code easier to search through and prevents files from being too large or disorganized, greatly simplifying the debugging process. Furthermore, having code structured in this manner makes adding new features easier, thus contributing to the adaptability of the application. Secondly, the header comments and in-line comments describe each block of code, greatly increasing its readability and maintainability.
